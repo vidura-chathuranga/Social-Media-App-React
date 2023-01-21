@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
-        "baseUrl": "src" //when you import specific file into another, you can simply started with SRC
+      "baseUrl": "src"//when you import specific file into another, you can simply started with SRC
     },
     "include": ["src"]
-}
+  }
+
