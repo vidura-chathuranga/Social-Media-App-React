@@ -69,6 +69,9 @@ const NavBar = () => {
           </FlexBetween>
         )}
       </FlexBetween>
+
+      /* DeskTopNav */
+
     </FlexBetween>
   );
 };
